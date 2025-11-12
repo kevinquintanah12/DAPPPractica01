@@ -1,0 +1,5 @@
+The SQLite database file is created as an empty file since it will be populated with the necessary table structure and data through the PHP scripts. Here are the contents for the file:
+
+/empleados-crud/empleados-crud/src/db/database.sqlite
+
+<!-- This file is intentionally left blank. -->

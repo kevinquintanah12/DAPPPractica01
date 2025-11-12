@@ -1,0 +1,63 @@
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    color: green;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+table, th, td {
+    border: 1px solid blue;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: lightblue;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
+
+form {
+    margin: 20px 0;
+}
+
+input[type="text"], input[type="tel"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid blue;
+}
+
+input[type="submit"] {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: darkblue;
+}
