@@ -35,23 +35,4 @@ Este repositorio forma parte de una práctica académica enfocada en el desarrol
 * `db/` — Scripts de conexión a la base de datos
 * `assets/` — Recursos como estilos o imágenes (si aplica)
 
----
 
-## 🛠️ Tecnologías Utilizadas
-
-* **PHP**
-* **MySQL**
-* **Apache (XAMPP/Laragon)**
-* **HTML/CSS**
-
----
-
-## ⭐ Actividad del Repositorio
-
-* Stars: **0**
-* Watchers: **0**
-* Forks: **0**
-
----
-
-Si quieres, también puedo generarte una versión **en inglés**, o un README con estilos avanzados (badges, tablas, GIFs, etc.). ¿Quieres otro diseño?
